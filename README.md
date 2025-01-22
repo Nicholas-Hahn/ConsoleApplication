@@ -14,3 +14,7 @@ This functionality is implemented using inclusion of the following packages:
 - Serilog.Sinks.Console
 
 The execution of the program shocwcases these features at runtime. The "appsettings.json" file is utilized to pass settings for Serilog logging levels as well as influence the execution of the program.
+
+The following intermediate concepts were also tested:
+
+- Lambda Expressions
